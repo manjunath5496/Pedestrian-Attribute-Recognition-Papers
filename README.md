@@ -6,56 +6,56 @@
           
              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(1).pdf" style="text-decoration:none;">Forest Rescoring: Faster Decoding with Integrated Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(1).pdf" style="text-decoration:none;">Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(2).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(2).pdf" style="text-decoration:none;"> Pedestrian Attribute Detection using CNN</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(3).pdf" style="text-decoration:none;">Cost-sensitive active learning for computer-assisted translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(4).pdf" style="text-decoration:none;">Target-Text Mediated Interactive Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(5).pdf" style="text-decoration:none;">Dual Inference for Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(3).pdf" style="text-decoration:none;">Grouping Attribute Recognition for Pedestrian with Joint Recurrent Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(4).pdf" style="text-decoration:none;">Deep Attributes Driven Multi-Camera Person Re-identification</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(5).pdf" style="text-decoration:none;">Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(6).pdf" style="text-decoration:none;">The Deeper, the Better: Analysis of Person Attributes Recognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(7).pdf" style="text-decoration:none;">A Temporal Attentive Approach for Video-Based Pedestrian Attribute Recognition</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(8).pdf" style="text-decoration:none;"> Embedding Word Similarity with Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(9).pdf" style="text-decoration:none;">Improving zero-shot learning by mitigating the hubness problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(8).pdf" style="text-decoration:none;"> Dynamic Curriculum Learning for Imbalanced Data Classification</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(9).pdf" style="text-decoration:none;">Pedestrian Attribute Recognition: A Survey</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(10).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(11).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(12).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(10).pdf" style="text-decoration:none;">Attributes-aided Part Detection and Refinement for Person Re-identification</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(11).pdf" style="text-decoration:none;">Incremental Few-Shot Learning for Pedestrian Attribute Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(12).pdf" style="text-decoration:none;">Improving Pedestrian Attribute Recognition With Weakly-Supervised Multi-Scale Attribute-Specific Localization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(13).pdf" style="text-decoration:none;">Distraction-Aware Feature Learning for Human Attribute Recognition via Coarse-to-Fine Attention Mechanism</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(14).pdf" style="text-decoration:none;">Improving Neural Machine Translation Models with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(14).pdf" style="text-decoration:none;">An Attention-Based Deep Learning Model for Multiple Pedestrian Attributes Recognition</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(15).pdf" style="text-decoration:none;">Sequence Level Training with Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(15).pdf" style="text-decoration:none;">Multi-Task Learning via Co-Attentive Sharing for Pedestrian Attribute Recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(16).pdf" style="text-decoration:none;">Multi-Source Neural Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(16).pdf" style="text-decoration:none;">Hierarchical Feature Embedding for Attribute Recognition</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(17).pdf" style="text-decoration:none;">Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(17).pdf" style="text-decoration:none;">Rethinking of Pedestrian Attribute Recognition: Realistic Datasets and A Strong Baseline</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(18).pdf" style="text-decoration:none;">Incorporating Structural Alignment Biases into an Attentional Neural Translation Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(18).pdf" style="text-decoration:none;">Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(19).pdf" style="text-decoration:none;">Pose Guided Deep Model for Pedestrian Attribute Recognition in Surveillance Scenarios</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(20).pdf" style="text-decoration:none;"> Joint Learning for Attribute-Consistent Person Re-Identification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(21).pdf" style="text-decoration:none;">Person Re-identification by Attributes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(22).pdf" style="text-decoration:none;">HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(23).pdf" style="text-decoration:none;">Deep Imbalanced Attribute Classification using Visual Attention Aggregation</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(24).pdf" style="text-decoration:none;">Human Attribute Recognition: A Comprehensive Survey</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(25).pdf" style="text-decoration:none;">Person Re-Identification by Deep Learning Attribute-Complementary Information</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(26).pdf" style="text-decoration:none;">GSR-MAR: Global Super-Resolution for Person Multi-Attribute Recognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(27).pdf" style="text-decoration:none;">Pedestrian Detection aided by Deep Learning Semantic Tasks</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(28).pdf" style="text-decoration:none;">Towards Person Identification and Re-identification with Attributes</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(29).pdf" style="text-decoration:none;">Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pedestrian-Attribute-Recognition-Papers/blob/master/ped(30).pdf" style="text-decoration:none;">Multi-label Image Recognition by Recurrently Discovering Attentional Regions</a></li>
  
 </ul>
